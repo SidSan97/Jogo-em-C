@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548353265 source:c:\users\sidnei\documents\projetos code blocks\jogo em c\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	<SDL_image.h>
+	"string"
+
